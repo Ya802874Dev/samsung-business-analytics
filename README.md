@@ -1,7 +1,7 @@
 
 # Samsung Business Analytics | Power BI
 
-![Samsung Business Analytics Cover](00-project-cover.png)
+![Samsung Business Analytics Cover](Samsung%20Business%20Intelligence%20Dashboard.png)
 
 An interactive Power BI solution designed to transform sales data into meaningful business insights and support data-driven decision-making.
 
@@ -12,22 +12,26 @@ This project explores business performance across sales, products, customers, ma
 ## Dashboard Pages
 
 ### 1. Executive Overview
-![Executive Overview](01-overview.png)
+![Executive Overview](01-overview.png.png)
+
 
 ### 2. Sales Performance
-![Sales Performance](02-sales-performance.png)
+![Sales Performance](02-sales-performance.png.png)
 
 ### 3. Product Intelligence
-![Product Intelligence](03-product-intelligence.png)
+![Product Intelligence](03-product-intelligence.png.png)
+
 
 ### 4. Customer Intelligence
-![Customer Intelligence](04-customer-intelligence.png)
+![Customer Intelligence](04-customer-intelligence.png.png)
+
 
 ### 5. Markets & Channels
-![Markets and Channels](05-markets-channels.png)
+![Markets and Channels](05-markets-channels.png.png)
+
 
 ### 6. Commercial Insights
-![Commercial Insights](06-commercial-insights.png)
+![Commercial Insights](06-commercial-insights.png.png)
 
 ## Key Performance Indicators
 
